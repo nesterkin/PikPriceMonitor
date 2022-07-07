@@ -1,205 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bc2dc62a-7398-49bb-b55d-28f2a53b94b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Fri Jan 10 15:33:52 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Fri Jan 10 15:34:43 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 14:22:58 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 14:26:07 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 15:00:51 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 15:01:06 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 15:05:39 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 15:15:45 MSK 2020.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Sun Jan 12 15:27:51 MSK 2020.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyAllFlats Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Thu Jul 07 15:11:31 MSK 2022.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9 Thu Jul 07 15:22:14 MSK 2022.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage1.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage10.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage11.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage12.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage13.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage14.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage15.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage16.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage17.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage18.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage19.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage20.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage20.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage7.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage8.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/response/PrettyPage9.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/response/PrettyPage9.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +90,9 @@
       </set>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -264,19 +102,16 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/response" />
@@ -306,7 +141,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="PikPriceMonitor [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -325,7 +162,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="PikPriceMonitor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -342,7 +181,9 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="/Users/nesterkin/IdeaProjects/PikPriceMonitor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -359,18 +200,14 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="PikPriceMonitor.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="Main" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="PikPriceMonitor.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -404,8 +241,9 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -417,94 +255,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578593459126">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="304" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578593459126" />
-    <state x="470" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578606126453">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="470" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1578606126453" />
-    <state width="779" height="535" key="DebuggerActiveHint" timestamp="1578658524920">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="681" height="466" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1578594500388" />
-    <state width="779" height="535" key="DebuggerActiveHint/0.23.1920.1177@0.23.1920.1177" timestamp="1578658524920" />
-    <state x="100" y="123" width="1720" height="977" key="DiffContextDialog" timestamp="1578659879386">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="100" y="123" width="1720" height="977" key="DiffContextDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578659879386" />
-    <state width="1878" height="571" key="GridCell.Tab.0.bottom" timestamp="1578890816414">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="432" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578606159567" />
-    <state width="1878" height="571" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578890816414" />
-    <state width="1878" height="571" key="GridCell.Tab.0.center" timestamp="1578890816413">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="432" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578606159566" />
-    <state width="1878" height="571" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578890816413" />
-    <state width="1878" height="571" key="GridCell.Tab.0.left" timestamp="1578890816412">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="432" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578606159565" />
-    <state width="1878" height="571" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578890816412" />
-    <state width="1878" height="571" key="GridCell.Tab.0.right" timestamp="1578890816414">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="432" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578606159566" />
-    <state width="1878" height="571" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578890816414" />
-    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1578659303396">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="336" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578594539552" />
-    <state width="1878" height="405" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578659303396" />
-    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1578659303395">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="336" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578594539550" />
-    <state width="1878" height="405" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578659303395" />
-    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1578659303395">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="336" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578594539549" />
-    <state width="1878" height="405" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578659303395" />
-    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1578659303395">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state width="1638" height="336" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578594539551" />
-    <state width="1878" height="405" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578659303395" />
-    <state x="390" y="197" key="SettingsEditor" timestamp="1578612031940">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578593365260" />
-    <state x="390" y="197" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1578612031940" />
-    <state x="614" y="446" key="com.intellij.ide.util.TipDialog" timestamp="1578611881502">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="614" y="446" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578611881502" />
-    <state x="566" y="340" width="788" height="541" key="find.popup" timestamp="1578659937900">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="495" y="300" width="689" height="472" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578592682770" />
-    <state x="566" y="340" width="788" height="541" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1578659937900" />
-    <state width="840" height="500" key="javadoc.popup.new" timestamp="1578604641409">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state width="840" height="500" key="javadoc.popup.new/0.23.1680.1027@0.23.1680.1027" timestamp="1578604641409" />
-    <state x="577" y="281" width="766" height="774" key="run.anything.popup" timestamp="1578611909731">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="505" y="248" width="670" height="675" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578592899492" />
-    <state x="577" y="281" width="766" height="774" key="run.anything.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1578611909731" />
-    <state x="577" y="211" width="766" height="775" key="search.everywhere.popup" timestamp="1578659921431">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1578604611599" />
-    <state x="577" y="211" width="766" height="775" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1578659921431" />
   </component>
 </project>

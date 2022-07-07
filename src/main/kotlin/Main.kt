@@ -34,7 +34,7 @@ object Main {
 
         do {
             val url = baseUrl + i
-            val pikResponse = gson.fromJson<PikResponse>(makeResponse(url), PikResponse::class.java)
+            val pikResponse = gson.fromJson(makeResponse(url), PikResponse::class.java)
             val prettyWriter = BufferedWriter(FileWriter(responseDir + "PrettyPage$i " + date + ".json"))
             prettyWriter.write(gson.toJson(pikResponse))
             prettyWriter.close()
@@ -54,11 +54,11 @@ object Main {
         val outputFlats = mutableListOf<PrintableFlat>()
         flats
             .filter { it.status == "free" }
-            .filter { it.floor > 5 }
-            .filter { it.bulk.name != "Корпус 27" }
-            .filter { it.bulk.name != "Корпус 38" }
-            .filter { it.bulk.name != "Корпус 39" }
-            .filter { it.bulk.name != "Корпус 40" }
+//            .filter { it.floor > 5 }
+//            .filter { it.bulk.name != "Корпус 27" }
+//            .filter { it.bulk.name != "Корпус 38" }
+//            .filter { it.bulk.name != "Корпус 39" }
+//            .filter { it.bulk.name != "Корпус 40" }
 //            .filter { it.rooms == "2" }
 //            .filter { it.bulk.settlement_year == 2021 }
             .forEach {
