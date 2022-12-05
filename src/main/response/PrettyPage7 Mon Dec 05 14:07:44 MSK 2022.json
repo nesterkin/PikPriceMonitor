@@ -1,0 +1,253 @@
+{
+  "block": {
+    "id": 118,
+    "name": "Саларьево парк",
+    "url": "sp",
+    "path": "/sp"
+  },
+  "bulks": [
+    {
+      "id": 8577,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 55",
+      "title": "55",
+      "settlement_year": 2023,
+      "min_price": 6983137,
+      "max_price": 6983137,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 8409,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 52",
+      "title": "52",
+      "settlement_year": 2023,
+      "min_price": 6588704,
+      "max_price": 7098475,
+      "min_area": 20,
+      "max_area": 22,
+      "is_furniture": 0
+    },
+    {
+      "id": 8075,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.3",
+      "title": "48.3",
+      "settlement_year": 2023,
+      "min_price": 7827459,
+      "max_price": 21202425,
+      "min_area": 26,
+      "max_area": 94,
+      "is_furniture": 0
+    },
+    {
+      "id": 8077,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.4",
+      "title": "48.4",
+      "settlement_year": 2023,
+      "min_price": 8196059,
+      "max_price": 18042842,
+      "min_area": 25,
+      "max_area": 90,
+      "is_furniture": 0
+    },
+    {
+      "id": 8079,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.1",
+      "title": "48.1",
+      "settlement_year": 2023,
+      "min_price": 7628509,
+      "max_price": 19793576,
+      "min_area": 20,
+      "max_area": 94,
+      "is_furniture": 0
+    },
+    {
+      "id": 8080,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.2",
+      "title": "48.2",
+      "settlement_year": 2023,
+      "min_price": 7573242,
+      "max_price": 18712027,
+      "min_area": 23,
+      "max_area": 89,
+      "is_furniture": 0
+    },
+    {
+      "id": 8504,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 53",
+      "title": "53",
+      "settlement_year": 2023,
+      "min_price": 6699812,
+      "max_price": 6720182,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 9194,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.3",
+      "title": "68.3",
+      "settlement_year": 2025,
+      "min_price": 7763563,
+      "max_price": 14753422,
+      "min_area": 32,
+      "max_area": 72,
+      "is_furniture": 0
+    },
+    {
+      "id": 9191,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.1",
+      "title": "68.1",
+      "settlement_year": 2025,
+      "min_price": 5811954,
+      "max_price": 14780381,
+      "min_area": 20,
+      "max_area": 72,
+      "is_furniture": 0
+    },
+    {
+      "id": 8335,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 49",
+      "title": "49",
+      "settlement_year": 2023,
+      "min_price": 7352880,
+      "max_price": 11918202,
+      "min_area": 21,
+      "max_area": 43,
+      "is_furniture": 0
+    },
+    {
+      "id": 8584,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 54",
+      "title": "54",
+      "settlement_year": 2023,
+      "min_price": 6653517,
+      "max_price": 6653517,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 8344,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 50",
+      "title": "50",
+      "settlement_year": 2023,
+      "min_price": 6879418,
+      "max_price": 9242549,
+      "min_area": 22,
+      "max_area": 35,
+      "is_furniture": 0
+    },
+    {
+      "id": 8390,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 51",
+      "title": "51",
+      "settlement_year": 2023,
+      "min_price": 7065585,
+      "max_price": 7065585,
+      "min_area": 23,
+      "max_area": 23,
+      "is_furniture": 0
+    },
+    {
+      "id": 4498,
+      "building_status": 49,
+      "type_id": 1,
+      "name": "Корпус 43",
+      "title": "43",
+      "settlement_year": 2022,
+      "min_price": 12136123,
+      "max_price": 13388654,
+      "min_area": 50,
+      "max_area": 53,
+      "is_furniture": 0
+    },
+    {
+      "id": 9071,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 66",
+      "title": "66",
+      "settlement_year": 2024,
+      "min_price": 6022843,
+      "max_price": 14919886,
+      "min_area": 20,
+      "max_area": 80,
+      "is_furniture": 0
+    },
+    {
+      "id": 4339,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 31",
+      "title": "31",
+      "settlement_year": 2022,
+      "min_price": 19079818,
+      "max_price": 19079818,
+      "min_area": 67,
+      "max_area": 67,
+      "is_furniture": 0
+    },
+    {
+      "id": 9193,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.2",
+      "title": "68.2",
+      "settlement_year": 2025,
+      "min_price": 7796961,
+      "max_price": 15340179,
+      "min_area": 32,
+      "max_area": 85,
+      "is_furniture": 0
+    }
+  ],
+  "rooms": [
+    "studio",
+    1.0,
+    2.0,
+    3.0
+  ],
+  "price": {
+    "min": 5811954,
+    "max": 21202425
+  },
+  "area": {
+    "min": 19.7,
+    "max": 94.1
+  },
+  "settlement": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "count": 0,
+  "flats": []
+}

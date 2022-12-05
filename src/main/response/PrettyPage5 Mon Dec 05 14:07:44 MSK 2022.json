@@ -1,0 +1,2604 @@
+{
+  "block": {
+    "id": 118,
+    "name": "Саларьево парк",
+    "url": "sp",
+    "path": "/sp"
+  },
+  "bulks": [
+    {
+      "id": 8577,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 55",
+      "title": "55",
+      "settlement_year": 2023,
+      "min_price": 6983137,
+      "max_price": 6983137,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 8409,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 52",
+      "title": "52",
+      "settlement_year": 2023,
+      "min_price": 6588704,
+      "max_price": 7098475,
+      "min_area": 20,
+      "max_area": 22,
+      "is_furniture": 0
+    },
+    {
+      "id": 8075,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.3",
+      "title": "48.3",
+      "settlement_year": 2023,
+      "min_price": 7827459,
+      "max_price": 21202425,
+      "min_area": 26,
+      "max_area": 94,
+      "is_furniture": 0
+    },
+    {
+      "id": 8077,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.4",
+      "title": "48.4",
+      "settlement_year": 2023,
+      "min_price": 8196059,
+      "max_price": 18042842,
+      "min_area": 25,
+      "max_area": 90,
+      "is_furniture": 0
+    },
+    {
+      "id": 8079,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.1",
+      "title": "48.1",
+      "settlement_year": 2023,
+      "min_price": 7628509,
+      "max_price": 19793576,
+      "min_area": 20,
+      "max_area": 94,
+      "is_furniture": 0
+    },
+    {
+      "id": 8080,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 48.2",
+      "title": "48.2",
+      "settlement_year": 2023,
+      "min_price": 7573242,
+      "max_price": 18712027,
+      "min_area": 23,
+      "max_area": 89,
+      "is_furniture": 0
+    },
+    {
+      "id": 8504,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 53",
+      "title": "53",
+      "settlement_year": 2023,
+      "min_price": 6699812,
+      "max_price": 6720182,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 9194,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.3",
+      "title": "68.3",
+      "settlement_year": 2025,
+      "min_price": 7763563,
+      "max_price": 14753422,
+      "min_area": 32,
+      "max_area": 72,
+      "is_furniture": 0
+    },
+    {
+      "id": 9191,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.1",
+      "title": "68.1",
+      "settlement_year": 2025,
+      "min_price": 5811954,
+      "max_price": 14780381,
+      "min_area": 20,
+      "max_area": 72,
+      "is_furniture": 0
+    },
+    {
+      "id": 8335,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 49",
+      "title": "49",
+      "settlement_year": 2023,
+      "min_price": 7352880,
+      "max_price": 11918202,
+      "min_area": 21,
+      "max_area": 43,
+      "is_furniture": 0
+    },
+    {
+      "id": 8584,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 54",
+      "title": "54",
+      "settlement_year": 2023,
+      "min_price": 6653517,
+      "max_price": 6653517,
+      "min_area": 20,
+      "max_area": 20,
+      "is_furniture": 0
+    },
+    {
+      "id": 8344,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 50",
+      "title": "50",
+      "settlement_year": 2023,
+      "min_price": 6879418,
+      "max_price": 9242549,
+      "min_area": 22,
+      "max_area": 35,
+      "is_furniture": 0
+    },
+    {
+      "id": 8390,
+      "building_status": 46,
+      "type_id": 1,
+      "name": "Корпус 51",
+      "title": "51",
+      "settlement_year": 2023,
+      "min_price": 7065585,
+      "max_price": 7065585,
+      "min_area": 23,
+      "max_area": 23,
+      "is_furniture": 0
+    },
+    {
+      "id": 4498,
+      "building_status": 49,
+      "type_id": 1,
+      "name": "Корпус 43",
+      "title": "43",
+      "settlement_year": 2022,
+      "min_price": 12136123,
+      "max_price": 13388654,
+      "min_area": 50,
+      "max_area": 53,
+      "is_furniture": 0
+    },
+    {
+      "id": 9071,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 66",
+      "title": "66",
+      "settlement_year": 2024,
+      "min_price": 6022843,
+      "max_price": 14919886,
+      "min_area": 20,
+      "max_area": 80,
+      "is_furniture": 0
+    },
+    {
+      "id": 4339,
+      "building_status": 47,
+      "type_id": 1,
+      "name": "Корпус 31",
+      "title": "31",
+      "settlement_year": 2022,
+      "min_price": 19079818,
+      "max_price": 19079818,
+      "min_area": 67,
+      "max_area": 67,
+      "is_furniture": 0
+    },
+    {
+      "id": 9193,
+      "building_status": 53,
+      "type_id": 1,
+      "name": "Корпус 68.2",
+      "title": "68.2",
+      "settlement_year": 2025,
+      "min_price": 7796961,
+      "max_price": 15340179,
+      "min_area": 32,
+      "max_area": 85,
+      "is_furniture": 0
+    }
+  ],
+  "rooms": [
+    "studio",
+    1.0,
+    2.0,
+    3.0
+  ],
+  "price": {
+    "min": 5811954,
+    "max": 21202425
+  },
+  "area": {
+    "min": 19.7,
+    "max": 94.1
+  },
+  "settlement": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "count": 0,
+  "flats": [
+    {
+      "id": 868102,
+      "guid": "30058796-bcb4-47cf-a3a8-c2747ab1e930",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 7,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 486,
+      "price": 13470124,
+      "discount": 0,
+      "area": 64.9,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9194,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.3",
+        "title": "68.3",
+        "settlement_year": 2025,
+        "min_price": 7763563,
+        "max_price": 14753422,
+        "min_area": 32,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21896,
+        "number": 7
+      },
+      "layout": {
+        "id": 42080
+      }
+    },
+    {
+      "id": 706721,
+      "guid": "86977397-84fc-421a-bc16-fe4eb5e17086",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 11,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 420,
+      "price": 13470390,
+      "discount": 0,
+      "area": 53.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18563,
+        "number": 4
+      },
+      "layout": {
+        "id": 26186
+      }
+    },
+    {
+      "id": 867912,
+      "guid": "6e8d4cdb-c691-4479-863e-43d801bc5ae8",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 376,
+      "price": 13507875,
+      "discount": 0,
+      "area": 65.2,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21923,
+        "number": 5
+      },
+      "layout": {
+        "id": 42072
+      }
+    },
+    {
+      "id": 868150,
+      "guid": "51db8fb0-ca56-494c-8589-5278765c01e1",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 516,
+      "price": 13512828,
+      "discount": 0,
+      "area": 64.9,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9194,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.3",
+        "title": "68.3",
+        "settlement_year": 2025,
+        "min_price": 7763563,
+        "max_price": 14753422,
+        "min_area": 32,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21896,
+        "number": 7
+      },
+      "layout": {
+        "id": 42080
+      }
+    },
+    {
+      "id": 706510,
+      "guid": "8202adcf-4bd6-4a7b-8ee9-5a852fadb2a6",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 442,
+      "price": 13513860,
+      "discount": 0,
+      "area": 53.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18563,
+        "number": 4
+      },
+      "layout": {
+        "id": 26186
+      }
+    },
+    {
+      "id": 867255,
+      "guid": "580ce15b-b6dc-4442-a277-f0974268060c",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 78,
+      "price": 13619810,
+      "discount": 0,
+      "area": 65.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21899,
+        "number": 1
+      },
+      "layout": {
+        "id": 42093
+      }
+    },
+    {
+      "id": 867790,
+      "guid": "dc305ef7-5930-452a-a473-c90c7746dbac",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 240,
+      "price": 13632180,
+      "discount": 0,
+      "area": 65.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21672,
+        "number": 3
+      },
+      "layout": {
+        "id": 42098
+      }
+    },
+    {
+      "id": 867700,
+      "guid": "f95960df-5c2c-4499-94a2-d8bf3f8a64ae",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 9,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 219,
+      "price": 13644551,
+      "discount": 0,
+      "area": 65.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21672,
+        "number": 3
+      },
+      "layout": {
+        "id": 42098
+      }
+    },
+    {
+      "id": 867204,
+      "guid": "cefdd75b-82f0-470a-82a5-0a1f0af55b33",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 9,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 50,
+      "price": 13650736,
+      "discount": 0,
+      "area": 65.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21899,
+        "number": 1
+      },
+      "layout": {
+        "id": 42093
+      }
+    },
+    {
+      "id": 706657,
+      "guid": "136c2a3a-9a5f-4a67-a4c3-3121a7364f3e",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 1,
+      "rooms": "1",
+      "rooms_fact": 1,
+      "number": 302,
+      "price": 13654998,
+      "discount": 0,
+      "area": 51.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18563,
+        "number": 4
+      },
+      "layout": {
+        "id": 26180
+      }
+    },
+    {
+      "id": 706504,
+      "guid": "cf5d1c72-2c03-435b-ac79-5d0871996577",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 590,
+      "price": 13676208,
+      "discount": 0,
+      "area": 52.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8075,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.3",
+        "title": "48.3",
+        "settlement_year": 2023,
+        "min_price": 7827459,
+        "max_price": 21202425,
+        "min_area": 26,
+        "max_area": 94,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18565,
+        "number": 5
+      },
+      "layout": {
+        "id": 26285
+      }
+    },
+    {
+      "id": 706866,
+      "guid": "dc5a1a6f-3378-48a4-a348-eaa737492338",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 15,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 608,
+      "price": 13738706,
+      "discount": 0,
+      "area": 51.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8075,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.3",
+        "title": "48.3",
+        "settlement_year": 2023,
+        "min_price": 7827459,
+        "max_price": 21202425,
+        "min_area": 26,
+        "max_area": 94,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18565,
+        "number": 5
+      },
+      "layout": {
+        "id": 26285
+      }
+    },
+    {
+      "id": 707232,
+      "guid": "aa32a7fd-798f-4aca-8548-0b8ef929d67f",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 16,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 617,
+      "price": 13781409,
+      "discount": 0,
+      "area": 52.4,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8075,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.3",
+        "title": "48.3",
+        "settlement_year": 2023,
+        "min_price": 7827459,
+        "max_price": 21202425,
+        "min_area": 26,
+        "max_area": 94,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18565,
+        "number": 5
+      },
+      "layout": {
+        "id": 26157
+      }
+    },
+    {
+      "id": 706909,
+      "guid": "c2c5fea4-ea87-4ec8-8480-cc282634a14b",
+      "status": "reserve",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 15,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 295,
+      "price": 13789732,
+      "discount": 0,
+      "area": 53.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18582,
+        "number": 3
+      },
+      "layout": {
+        "id": 26179
+      }
+    },
+    {
+      "id": 707063,
+      "guid": "43f6a31a-5278-4593-b158-98ad8ec702c5",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 1,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 310,
+      "price": 13845847,
+      "discount": 0,
+      "area": 53.3,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18563,
+        "number": 4
+      },
+      "layout": {
+        "id": 26186
+      }
+    },
+    {
+      "id": 706545,
+      "guid": "a5465650-73b4-4bf7-bd8e-54ead7f85426",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 16,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 156,
+      "price": 14035717,
+      "discount": 0,
+      "area": 52.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8079,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.1",
+        "title": "48.1",
+        "settlement_year": 2023,
+        "min_price": 7628509,
+        "max_price": 19793576,
+        "min_area": 20,
+        "max_area": 94,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18572,
+        "number": 1
+      },
+      "layout": {
+        "id": 26157
+      }
+    },
+    {
+      "id": 867308,
+      "guid": "52865367-6f08-47df-b8d5-924187b2d345",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 4,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 104,
+      "price": 14082139,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42094
+      }
+    },
+    {
+      "id": 867292,
+      "guid": "104f9ffc-0f8a-40b7-9575-829dda8ed9a8",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 3,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 99,
+      "price": 14228967,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42095
+      }
+    },
+    {
+      "id": 867475,
+      "guid": "2033a1b5-6255-4341-b86f-60e2d319eb15",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 14,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 164,
+      "price": 14248989,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42094
+      }
+    },
+    {
+      "id": 867366,
+      "guid": "8a329eb0-eec5-4647-908f-e375f2970bcd",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 8,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 128,
+      "price": 14262337,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42094
+      }
+    },
+    {
+      "id": 867452,
+      "guid": "6efe358f-b335-4f12-859e-45bc5f0d728b",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 152,
+      "price": 14282359,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42094
+      }
+    },
+    {
+      "id": 726779,
+      "guid": "5b98313a-5734-4e58-adfb-2243d49da422",
+      "status": "reserve",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 916,
+      "price": 14338121,
+      "discount": 0,
+      "area": 59.2,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8077,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.4",
+        "title": "48.4",
+        "settlement_year": 2023,
+        "min_price": 8196059,
+        "max_price": 18042842,
+        "min_area": 25,
+        "max_area": 90,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18580,
+        "number": 9
+      },
+      "layout": {
+        "id": 26363
+      }
+    },
+    {
+      "id": 867127,
+      "guid": "984f714c-cfd1-48f7-afbf-3522f877f636",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 3,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 14,
+      "price": 14369253,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21899,
+        "number": 1
+      },
+      "layout": {
+        "id": 42092
+      }
+    },
+    {
+      "id": 868025,
+      "guid": "d6b55a7c-232c-4211-9ee4-51d63d2f1521",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 3,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 467,
+      "price": 14369253,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9194,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.3",
+        "title": "68.3",
+        "settlement_year": 2025,
+        "min_price": 7763563,
+        "max_price": 14753422,
+        "min_area": 32,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21896,
+        "number": 7
+      },
+      "layout": {
+        "id": 42085
+      }
+    },
+    {
+      "id": 845441,
+      "guid": "364bf4c2-0642-40b3-b833-c58f022ad5c3",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 2,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 9,
+      "price": 14424807,
+      "discount": 0,
+      "area": 79.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9071,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 66",
+        "title": "66",
+        "settlement_year": 2024,
+        "min_price": 6022843,
+        "max_price": 14919886,
+        "min_area": 20,
+        "max_area": 80,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21262,
+        "number": 1
+      },
+      "layout": {
+        "id": 39223
+      }
+    },
+    {
+      "id": 845655,
+      "guid": "1f5f0841-8274-49e4-8fc0-f7d1b2355803",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 17,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 249,
+      "price": 14513900,
+      "discount": 0,
+      "area": 79.1,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9071,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 66",
+        "title": "66",
+        "settlement_year": 2024,
+        "min_price": 6022843,
+        "max_price": 14919886,
+        "min_area": 20,
+        "max_area": 80,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21262,
+        "number": 1
+      },
+      "layout": {
+        "id": 39272
+      }
+    },
+    {
+      "id": 867581,
+      "guid": "54e93b09-85d5-49d7-9ca5-e3772f8522bf",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 4,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 190,
+      "price": 14564707,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21672,
+        "number": 3
+      },
+      "layout": {
+        "id": 42104
+      }
+    },
+    {
+      "id": 706923,
+      "guid": "d4507019-47c0-4a8e-b9ef-c16bd1f6c805",
+      "status": "reserve",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 14,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 225,
+      "price": 14576825,
+      "discount": 0,
+      "area": 57.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18581,
+        "number": 2
+      },
+      "layout": {
+        "id": 26289
+      }
+    },
+    {
+      "id": 867469,
+      "guid": "7b93cdb1-50b8-4b8f-a8ee-621a8f6fe216",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 159,
+      "price": 14609385,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42095
+      }
+    },
+    {
+      "id": 867379,
+      "guid": "17e8bc24-459b-44b1-8ff1-906e9145f5f5",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 8,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 129,
+      "price": 14609385,
+      "discount": 0,
+      "area": 71.0,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21671,
+        "number": 2
+      },
+      "layout": {
+        "id": 42095
+      }
+    },
+    {
+      "id": 867965,
+      "guid": "31e8a686-fd54-4d82-a56a-bfa69ebb6106",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 3,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 400,
+      "price": 14693327,
+      "discount": 0,
+      "area": 83.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21676,
+        "number": 6
+      },
+      "layout": {
+        "id": 42086
+      }
+    },
+    {
+      "id": 845551,
+      "guid": "358b3442-f30c-4692-9cea-977ce7f2bc41",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 169,
+      "price": 14740703,
+      "discount": 0,
+      "area": 79.2,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9071,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 66",
+        "title": "66",
+        "settlement_year": 2024,
+        "min_price": 6022843,
+        "max_price": 14919886,
+        "min_area": 20,
+        "max_area": 80,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21262,
+        "number": 1
+      },
+      "layout": {
+        "id": 39262
+      }
+    },
+    {
+      "id": 868188,
+      "guid": "13cb7a48-6245-4d7e-ac6f-7d9310bdaa77",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 527,
+      "price": 14753422,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9194,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.3",
+        "title": "68.3",
+        "settlement_year": 2025,
+        "min_price": 7763563,
+        "max_price": 14753422,
+        "min_area": 32,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21896,
+        "number": 7
+      },
+      "layout": {
+        "id": 42085
+      }
+    },
+    {
+      "id": 867263,
+      "guid": "d7ec91bd-0f14-4240-a0bb-e48f1ec11b00",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 84,
+      "price": 14753422,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21899,
+        "number": 1
+      },
+      "layout": {
+        "id": 42092
+      }
+    },
+    {
+      "id": 868121,
+      "guid": "991977d7-89bd-4ed6-babd-8a62f386ff35",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 8,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 497,
+      "price": 14753422,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9194,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.3",
+        "title": "68.3",
+        "settlement_year": 2025,
+        "min_price": 7763563,
+        "max_price": 14753422,
+        "min_area": 32,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21896,
+        "number": 7
+      },
+      "layout": {
+        "id": 42085
+      }
+    },
+    {
+      "id": 867200,
+      "guid": "09f904b1-5a36-415e-8d9f-4fc77af4dfed",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 8,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 49,
+      "price": 14753422,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21899,
+        "number": 1
+      },
+      "layout": {
+        "id": 42092
+      }
+    },
+    {
+      "id": 867797,
+      "guid": "c49d615e-623d-4d0e-a53f-033f52d7a448",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 12,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 246,
+      "price": 14766901,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21672,
+        "number": 3
+      },
+      "layout": {
+        "id": 42104
+      }
+    },
+    {
+      "id": 706560,
+      "guid": "127f06b2-42bc-4bff-a00f-4a611a8c882f",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 16,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 234,
+      "price": 14767553,
+      "discount": 0,
+      "area": 59.1,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18581,
+        "number": 2
+      },
+      "layout": {
+        "id": 26288
+      }
+    },
+    {
+      "id": 867725,
+      "guid": "845eee1e-0390-4ce6-a37c-548a9dd1f490",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 9,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 225,
+      "price": 14780381,
+      "discount": 0,
+      "area": 71.7,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9191,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.1",
+        "title": "68.1",
+        "settlement_year": 2025,
+        "min_price": 5811954,
+        "max_price": 14780381,
+        "min_area": 20,
+        "max_area": 72,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21672,
+        "number": 3
+      },
+      "layout": {
+        "id": 42104
+      }
+    },
+    {
+      "id": 726776,
+      "guid": "5fc8520f-8f1a-4750-aaa4-360de4fd3f6b",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 16,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 930,
+      "price": 14789167,
+      "discount": 0,
+      "area": 57.4,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8077,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.4",
+        "title": "48.4",
+        "settlement_year": 2023,
+        "min_price": 8196059,
+        "max_price": 18042842,
+        "min_area": 25,
+        "max_area": 90,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18580,
+        "number": 9
+      },
+      "layout": {
+        "id": 26357
+      }
+    },
+    {
+      "id": 707082,
+      "guid": "b701bbf0-95b0-41b3-a55b-977ef0f68dd8",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 14,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 224,
+      "price": 14816457,
+      "discount": 0,
+      "area": 59.2,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8080,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.2",
+        "title": "48.2",
+        "settlement_year": 2023,
+        "min_price": 7573242,
+        "max_price": 18712027,
+        "min_area": 23,
+        "max_area": 89,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18581,
+        "number": 2
+      },
+      "layout": {
+        "id": 26288
+      }
+    },
+    {
+      "id": 726778,
+      "guid": "423c044a-9419-485f-b4e8-e2fdd4f428a7",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 15,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 925,
+      "price": 14841344,
+      "discount": 0,
+      "area": 57.4,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8077,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.4",
+        "title": "48.4",
+        "settlement_year": 2023,
+        "min_price": 8196059,
+        "max_price": 18042842,
+        "min_area": 25,
+        "max_area": 90,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18580,
+        "number": 9
+      },
+      "layout": {
+        "id": 26362
+      }
+    },
+    {
+      "id": 726785,
+      "guid": "2a9b66aa-c86c-490b-aedf-3e70056d8948",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 14,
+      "rooms": "2",
+      "rooms_fact": 2,
+      "number": 920,
+      "price": 14893520,
+      "discount": 0,
+      "area": 57.4,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8077,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.4",
+        "title": "48.4",
+        "settlement_year": 2023,
+        "min_price": 8196059,
+        "max_price": 18042842,
+        "min_area": 25,
+        "max_area": 90,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18580,
+        "number": 9
+      },
+      "layout": {
+        "id": 26357
+      }
+    },
+    {
+      "id": 845436,
+      "guid": "d19387c4-f5b1-4e6a-9f98-83688f37bad0",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 7,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 89,
+      "price": 14919886,
+      "discount": 0,
+      "area": 79.8,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9071,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 66",
+        "title": "66",
+        "settlement_year": 2024,
+        "min_price": 6022843,
+        "max_price": 14919886,
+        "min_area": 20,
+        "max_area": 80,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21262,
+        "number": 1
+      },
+      "layout": {
+        "id": 39248
+      }
+    },
+    {
+      "id": 867528,
+      "guid": "4a66efad-1fc3-4e04-9cbc-4108dedce275",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 3,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 270,
+      "price": 14926654,
+      "discount": 0,
+      "area": 84.6,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21924,
+        "number": 4
+      },
+      "layout": {
+        "id": 42051
+      }
+    },
+    {
+      "id": 868110,
+      "guid": "93666824-4b02-4566-9a51-271e2d537d14",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 13,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 450,
+      "price": 15085777,
+      "discount": 0,
+      "area": 83.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21676,
+        "number": 6
+      },
+      "layout": {
+        "id": 42086
+      }
+    },
+    {
+      "id": 868006,
+      "guid": "87bc4871-617e-4abb-905c-69b90c9c692c",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 8,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 425,
+      "price": 15085777,
+      "discount": 0,
+      "area": 83.5,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21676,
+        "number": 6
+      },
+      "layout": {
+        "id": 42086
+      }
+    },
+    {
+      "id": 707043,
+      "guid": "2a05f980-e840-4c97-8427-a1d9da955e56",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 1,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 485,
+      "price": 15108186,
+      "discount": 0,
+      "area": 69.9,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 8075,
+        "building_status": 47,
+        "type_id": 1,
+        "name": "Корпус 48.3",
+        "title": "48.3",
+        "settlement_year": 2023,
+        "min_price": 7827459,
+        "max_price": 21202425,
+        "min_area": 26,
+        "max_area": 94,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 18565,
+        "number": 5
+      },
+      "layout": {
+        "id": 26325
+      }
+    },
+    {
+      "id": 867829,
+      "guid": "f1a44de7-bc8b-4206-a5f6-df4000d89e97",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 4,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 340,
+      "price": 15125464,
+      "discount": 0,
+      "area": 84.6,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21923,
+        "number": 5
+      },
+      "layout": {
+        "id": 42076
+      }
+    },
+    {
+      "id": 867865,
+      "guid": "b749f5ce-d7e5-4003-8204-38a006b7873f",
+      "status": "free",
+      "is_studio": 0,
+      "is_penthouse": 0,
+      "type_id": 1,
+      "floor": 7,
+      "rooms": "3",
+      "rooms_fact": 3,
+      "number": 355,
+      "price": 15292465,
+      "discount": 0,
+      "area": 84.6,
+      "finish": {
+        "isFinish": true,
+        "whiteBox": false
+      },
+      "furniture": false,
+      "booking_cost": "5000",
+      "block": {
+        "id": 118,
+        "name": "Саларьево парк",
+        "url": "sp",
+        "path": "/sp"
+      },
+      "bulk": {
+        "id": 9193,
+        "building_status": 53,
+        "type_id": 1,
+        "name": "Корпус 68.2",
+        "title": "68.2",
+        "settlement_year": 2025,
+        "min_price": 7796961,
+        "max_price": 15340179,
+        "min_area": 32,
+        "max_area": 85,
+        "is_furniture": 0
+      },
+      "section": {
+        "id": 21923,
+        "number": 5
+      },
+      "layout": {
+        "id": 42076
+      }
+    }
+  ]
+}
